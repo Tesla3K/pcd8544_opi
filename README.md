@@ -1,5 +1,13 @@
-# pcd8544_rpi
-pcd8544(NOKIA5110) Command Line Tool for Raspberry Pi / Orange Pi
+# Python Module For PCD8544 on OPi!
+
+I try to make a python module for PCD8544 for use on Orange Pi board.
+
+ 1. Clone this repository
+ 2. cd pcd8544_opi
+ 3. pip install -r requirements.txt
+ 
+ # pcd8544_rpi
+pcd8544(NOKIA5110) Command Line Tool for Orange Pi
 
 You can operate from command line.  
 

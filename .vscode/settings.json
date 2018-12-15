@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ratio": "c"
+    },
+    "python.pythonPath": ".venv/bin/python"
+}
